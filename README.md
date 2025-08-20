@@ -68,7 +68,8 @@ The parity plot compares predicted vs. actual values:
 - **Dots near red line** → Good predictions
 - **Dots far from red line** → Larger prediction errors
 
-![Parity Plot](assets/parity_plot.png) *(image placeholder)*
+<img width="590" height="590" alt="image" src="https://github.com/user-attachments/assets/d680748b-0141-491e-896e-10b50ccfa7af" />
+
 
 ---
 
